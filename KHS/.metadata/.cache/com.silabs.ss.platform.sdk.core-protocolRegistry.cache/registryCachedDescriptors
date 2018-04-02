@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ASCII"?>
+<model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors name="com.silabs.sdk.stack.super:1.1.1._310456152" label="32 bit MCU SDK" description="Silicon Labs 32 bit MCU SDK">
+    <properties key="core.installationPath" value="file:/C:/SiliconLabs/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v1.1/.studio/efm32.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:1.1.1._310456152"/>
+    <properties key="core.version" value="5.2.2.0_10155856"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="core.partCompatibility" value="mcu.arm.ezr32.lg.* mcu.arm.efm32.wg.* mcu.arm.efm32.tg.* mcu.arm.ezr32.hg.* mcu.arm.efr32.mg.* mcu.arm.efm32.gg.* mcu.arm.efr32.bg.* mcu.arm.efm32.g..* mcu.arm.ezr32.wg.* mcu.arm.efm32.pg12.* mcu.arm.efm32.jg12.* mcu.arm.efm32.hg.* mcu.arm.efm32.jg.* mcu.arm.efm32.lg.* mcu.arm.efm32.pg.* mcu.arm.efm32.z.*"/>
+    <properties key="sdk.templatesFile" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\.studio\templates.xml C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\.studio\builtinTemplates.xml"/>
+    <properties key="gccSDK.gccLinkerScript" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\.studio\linkerScripts\linker_script_efm32_v4.ld"/>
+    <properties key="sdk.modulesFile" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\.studio\modules.xml"/>
+    <properties key="sdk.demosFile" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\.studio\demos.xml"/>
+    <properties key="sdk.subLabel" value="MCU\ 5.2.2.0"/>
+    <properties key="sdk.docsFile" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\.studio\mcu_doc_content.xml"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.exx32"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:1.1.1._310456152" label="Gecko Bootloader" description="Gecko Bootloader">
+    <properties key="core.installationPath" value="file:/C:/SiliconLabs/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v1.1/platform/bootloader/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:1.1.1._310456152"/>
+    <properties key="core.version" value="0.0.0._1296071675"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="stack.esf.appDirectory" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v1.1\platform\bootloader\."/>
+    <properties key="core.detected" value="true"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="core.partCompatibility" value=".*efr32(b|f|m)g(1){0,1}(1|2|3|4)(b|p|v)(132|232|233|332|333|432|433|532|632|732|733|131|133|032|231|431)f(128|256|1024|512|64|32)(g|i)(m|j|l)(32|48|56|43|125|51|68) com.silabs.part.none"/>
+    <properties key="core.boardCompatibility" value="com.silabs.board.none:0.0.0 brd4.* wstk:0.0.0"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.super"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:2.0.0._310455064" label="Micrium OS Kernel" description="SL-MOS-KRNX-000000-P-P1">
+    <properties key="core.installationPath" value="file:/C:/SiliconLabs/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v2.0/util/micrium/micrium-krnx.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:2.0.0._310455064"/>
+    <properties key="core.version" value="5.1.0._1726497021"/>
+    <properties key="sdk.subPropertyFiles" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\util\micrium\micrium-krnx.properties"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efm32.g..* mcu.arm.efm32.gg.* mcu.arm.efm32.hg.* mcu.arm.efm32.pg.* mcu.arm.efm32.pg12.* mcu.arm.efm32.jg.* mcu.arm.efm32.jg12.* mcu.arm.efm32.lg.* mcu.arm.efm32.wg.* mcu.arm.efm32.g..* mcu.arm.efm32.gg.* mcu.arm.efm32.hg.* mcu.arm.efm32.pg.* mcu.arm.efm32.pg12.* mcu.arm.efm32.jg.* mcu.arm.efm32.jg12.* mcu.arm.efm32.lg.* mcu.arm.efm32.wg.*"/>
+    <properties key="installedUnit" value="krnx"/>
+    <properties key="sdk.subLabel" value="Micrium\ OS\ Kernel\ 5.1.0 Micrium\ OS\ Kernel\ 5.1.0"/>
+    <properties key="sdk.docsFile" value="C:/SiliconLabs/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v2.0/util/micrium/micrium-krnx-docs.xml C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\util\micrium\micrium-krnx-docs.xml"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.micrium"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:2.0.0._310455064" label="Gecko Bootloader" description="Gecko Bootloader">
+    <properties key="core.installationPath" value="file:/C:/SiliconLabs/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v2.0/platform/bootloader/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:2.0.0._310455064"/>
+    <properties key="core.version" value="1.4.0._980731707"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="stack.esf.appDirectory" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\platform\bootloader\."/>
+    <properties key="protocol.protocolKey" value="BOOTLOADER"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.bootloader"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:2.0.0._310455064" label="Flex SDK" description="Silicon Labs Flex SDK">
+    <properties key="core.installationPath" value="file:/C:/SiliconLabs/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v2.0/protocol/flex_2.0/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:2.0.0._310455064"/>
+    <properties key="core.version" value="2.0.0.0_1658518295"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="sdk.useGCCUserObjs" value="flex"/>
+    <properties key="stack.esf.appDirectory" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\protocol\flex_2.0\connect"/>
+    <properties key="sdk.subLabel" value="Flex\ 2.0.0.0"/>
+    <properties key="sdk.docsFile" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\protocol\flex_2.0\documentation\slFlex_docContent.xml"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.sdk.stack.flex"/>
+  </descriptors>
+  <descriptors name="com.silabs.sdk.stack.super:2.0.0._310455064" label="Bluetooth SDK" description="Bluetooth Software Development Kit">
+    <properties key="core.installationPath" value="file:/C:/SiliconLabs/SimplicityStudio/v4/developer/sdks/gecko_sdk_suite/v2.0/app/bluetooth_2.6/appbuilder/esf.properties"/>
+    <properties key="coreSdk.contributingSdk" value="com.silabs.sdk.stack.super:2.0.0._310455064"/>
+    <properties key="core.version" value="2.6.1.0_437239419"/>
+    <properties key="sdk.subPropertyFiles" value=""/>
+    <properties key="bleSDK.bgbuildLocation" value="protocol/bluetooth_2.6/bin"/>
+    <properties key="bleSDK.incDir" value="../../../protocol/bluetooth_2.6/ble_stack/inc/common,../../../protocol/bluetooth_2.6/ble_stack/inc/soc,../../../platform/emlib/inc,../../../platform/emdrv/dmadrv/inc,../../../platform/emdrv/common/inc,../../../platform/emdrv/dmadrv/config,../../../platform/CMSIS/Include"/>
+    <properties key="sdk.subLabel" value="Bluetooth\ 2.6.1.0"/>
+    <properties key="bleSDK.deviceDir" value="../../../platform/Device/SiliconLabs"/>
+    <properties key="bleSDK.bootloaderDir" value="../../../protocol/bluetooth_2.6/ble_stack/bootloader"/>
+    <properties key="bleSDK.emlibDir" value="../../../platform/emlib"/>
+    <properties key="bleSDK.libDir" value="../../../protocol/bluetooth_2.6/lib"/>
+    <properties key="bleSDK.bootloaderLinkerFile" value="../../../protocol/bluetooth_2.6/ble_stack/linker/bootloader.ld"/>
+    <properties key="stack.esf.appDirectory" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\app\bluetooth_2.6\appbuilder\fwk"/>
+    <properties key="sdk.useGCCUserObjs" value="ble"/>
+    <properties key="bleSDK.emdrvSrc" value="dmadrv/src/dmadrv.c"/>
+    <properties key="bleSDK.bgbuildToolchain" value="true"/>
+    <properties key="bleSDK.linkerDir" value="../../../protocol/bluetooth_2.6/ble_stack/linker/GCC"/>
+    <properties key="bleSDK.bootloaderIncDir" value="../../../platform/emlib/inc,../../../platform/emdrv/nvm/inc,../../../platform/emdrv/nvm/config,../../../platform/emdrv/common/inc,../../../platform/CMSIS/Include,../../../protocol/bluetooth_2.6/ble_stack/inc/common"/>
+    <properties key="bleSDK.apiFile" value="../../../protocol/bluetooth_2.6/ble_stack/api/gecko.xml"/>
+    <properties key="bleSDK.emdrvDir" value="../../../platform/emdrv"/>
+    <properties key="sdk.demosFile" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\app\bluetooth_2.6\appbuilder\sample-apps-bin\demos-homekit.xml"/>
+    <properties key="bleSDK.emlibSrc" value="src/em_leuart.c,src/em_adc.c,src/em_ldma.c,src/em_gpio.c,src/em_i2c.c,src/em_rtcc.c,src/em_usart.c,src/em_msc.c,src/em_cmu.c,src/em_system.c"/>
+    <properties key="sdk.docsFile" value="C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\app\bluetooth_2.6\appbuilder\..\doc\doc.xml C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\app\bluetooth_2.6\appbuilder\..\doc\doc-homekit.xml"/>
+    <properties key="core.detected" value="true"/>
+    <properties key="core.builtin" value="true"/>
+    <properties key="CACHED_ID_STRING" value="com.silabs.stack.ble"/>
+  </descriptors>
+</model:MDescriptors>

@@ -1,0 +1,81 @@
+!SESSION 2018-03-21 11:10:28.133 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.silabs.ss.platform.content.core 4 0 2018-03-21 11:11:13.969
+!MESSAGE Local timestamp file does not exist: C:\SiliconLabs\SimplicityStudio\v4\offline\common\Simplicity_Studio_Terms_of_Use_and_Privacy_Statement.timestamp
+
+!ENTRY com.silabs.ss.platform.content.core 4 0 2018-03-21 11:11:35.963
+!MESSAGE Local timestamp file does not exist: C:\SiliconLabs\SimplicityStudio\v4\offline\common\Simplicity_Studio_Terms_of_Use_and_Privacy_Statement.timestamp
+
+!ENTRY com.silabs.ss.tool.ide.arm.toolchain.iar 1 0 2018-03-21 11:12:20.732
+!MESSAGE detectIAREWARMFromRegistry: null
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:21.952
+!MESSAGE Unknown architecture(s) [efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[832]~flash[512k]~temp[i]~package[m]~pins[48]+iar, efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[832]~flash[512k]~temp[i]~package[m]~pins[48]+gcc, efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[932]~flash[512k]~temp[i]~package[m]~pins[48]+iar, efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[932]~flash[512k]~temp[i]~package[m]~pins[48]+gcc, efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[832]~flash[512k]~temp[g]~package[m]~pins[48]+iar, efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[832]~flash[512k]~temp[g]~package[m]~pins[48]+gcc, efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[932]~flash[512k]~temp[g]~package[m]~pins[48]+iar, efr32~family[m]~series[1]~device_configuration[3]~performance[p]~radio[932]~flash[512k]~temp[g]~package[m]~pins[48]+gcc] in framework ble
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:21.967
+!MESSAGE Unknown board 'BRD4165B' in framework ble
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:21.967
+!MESSAGE Unknown board 'BRD4305A' in framework ble
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:21.983
+!MESSAGE Unknown board 'BRD4305C' in framework ble
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:21.998
+!MESSAGE Unknown board 'BRD4305D' in framework ble
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:21.998
+!MESSAGE Unknown board 'BRD4305E' in framework ble
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.030
+!MESSAGE Unknown architecture(s) [EFR32BG13P632F512IM32+iar, EFR32BG13P632F512IM48+iar, EFR32FG13P231F512IM32+iar, EFR32FG13P231F512IM48+iar, EFR32FG14V132F256GM32+iar, EFR32FG14V132F256GM48+iar, EFR32MG13P732F512IM32+iar, EFR32MG13P732F512IM48+iar, EFR32MG13P733F512IM48+iar, EFR32MG13P832F512GM48+iar, EFR32MG13P832F512IM48+iar, EFR32MG13P932F512GM48+iar, EFR32MG13P932F512IM48+iar, EFR32BG13P632F512IM32+gcc, EFR32BG13P632F512IM48+gcc, EFR32FG13P231F512IM32+gcc, EFR32FG13P231F512IM48+gcc, EFR32FG14V132F256GM32+gcc, EFR32FG14V132F256GM48+gcc, EFR32MG13P732F512IM32+gcc, EFR32MG13P732F512IM48+gcc, EFR32MG13P733F512IM48+gcc, EFR32MG13P832F512GM48+gcc, EFR32MG13P832F512IM48+gcc, EFR32MG13P932F512GM48+gcc, EFR32MG13P932F512IM48+gcc] in framework flex
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.045
+!MESSAGE Unknown board 'BRD4165A' in framework flex
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.061
+!MESSAGE Unknown board 'BRD4165B' in framework flex
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.061
+!MESSAGE Unknown board 'BRD4305A' in framework flex
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.077
+!MESSAGE Unknown board 'BRD4305C' in framework flex
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.092
+!MESSAGE Unknown board 'BRD4305D' in framework flex
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.092
+!MESSAGE Unknown board 'BRD4305E' in framework flex
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.225
+!MESSAGE No capability active_scan found for Sniffer
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.272
+!MESSAGE Unknown architecture(s) [efr32mg13p832f512im48+brd4165b+gcc, efr32mg13p832f512im48+brd4165b+iar, efr32bg13p732f512gm51+brd4305a+gcc, efr32bg13p732f512gm51+brd4305a+iar, efr32bg13p632f512gm51+brd4305c+gcc, efr32bg13p632f512gm51+brd4305c+iar, efr32mg13p632f512gm51+brd4305d+gcc, efr32mg13p632f512gm51+brd4305d+iar, efr32mg13p732f512gm51+brd4305e+gcc, efr32mg13p732f512gm51+brd4305e+iar] in sample app NCP target - Empty
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.303
+!MESSAGE Unknown architecture(s) [efr32mg13p832f512im48+brd4165b+iar, efr32bg13p732f512gm51+brd4305a+iar, efr32bg13p632f512gm51+brd4305c+iar, efr32mg13p632f512gm51+brd4305d+iar, efr32mg13p732f512gm51+brd4305e+iar] in sample app NCP target - Switched Multiprotocol Trust Center
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.319
+!MESSAGE Unknown architecture(s) [efr32mg13p832f512im48+brd4165b+gcc, efr32mg13p832f512im48+brd4165b+iar, efr32bg13p732f512gm51+brd4305a+gcc, efr32bg13p732f512gm51+brd4305a+iar, efr32bg13p632f512gm51+brd4305c+gcc, efr32bg13p632f512gm51+brd4305c+iar, efr32mg13p632f512gm51+brd4305d+gcc, efr32mg13p632f512gm51+brd4305d+iar, efr32mg13p732f512gm51+brd4305e+gcc, efr32mg13p732f512gm51+brd4305e+iar] in sample app SOC - DTM
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.352
+!MESSAGE Unknown architecture(s) [efr32mg13p832f512im48+brd4165b+gcc, efr32mg13p832f512im48+brd4165b+iar, efr32bg13p732f512gm51+brd4305a+gcc, efr32bg13p732f512gm51+brd4305a+iar, efr32bg13p632f512gm51+brd4305c+gcc, efr32bg13p632f512gm51+brd4305c+iar, efr32mg13p632f512gm51+brd4305d+gcc, efr32mg13p632f512gm51+brd4305d+iar, efr32mg13p732f512gm51+brd4305e+gcc, efr32mg13p732f512gm51+brd4305e+iar] in sample app SOC - Smart Phone App
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.365
+!MESSAGE Unknown architecture(s) [efr32bg13p732f512gm51+brd4305a+iar, efr32bg13p632f512gm51+brd4305c+iar, efr32mg13p632f512gm51+brd4305d+iar, efr32mg13p732f512gm51+brd4305e+iar] in sample app SOC - Switched Multiprotocol Joining Device
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.380
+!MESSAGE Unknown architecture(s) [efr32mg13p832f512im48+brd4165b+gcc, efr32mg13p832f512im48+brd4165b+iar, efr32bg13p732f512gm51+brd4305a+gcc, efr32bg13p732f512gm51+brd4305a+iar, efr32bg13p632f512gm51+brd4305c+gcc, efr32bg13p632f512gm51+brd4305c+iar, efr32mg13p632f512gm51+brd4305d+gcc, efr32mg13p632f512gm51+brd4305d+iar, efr32mg13p732f512gm51+brd4305e+gcc, efr32mg13p732f512gm51+brd4305e+iar] in sample app SOC - Thermometer
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.443
+!MESSAGE Unknown architecture(s) [BRD4165B] in sample app RAIL: Range Test
+
+!ENTRY com.silabs.foundation.core_rcp 2 0 2018-03-21 11:12:22.443
+!MESSAGE Unknown architecture(s) [BRD4165B] in sample app RAIL: Range Test - PHY: 250k, 2gfsk, base
